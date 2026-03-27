@@ -2,6 +2,10 @@
 
 A deep, practical roadmap for people moving into AI from software, data, product, QA, design, operations, or non-technical roles. This repository focuses on what to learn, how to sequence it, and how to bridge the gap from your current experience to credible AI capability.
 
+[![Track](https://img.shields.io/badge/Track-Career%20Transition-0A7EA4)](#)
+[![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-2E8B57)](#)
+[![Format](https://img.shields.io/badge/Format-Roadmap%20and%20Templates-8A5CF6)](#)
+
 ## Overview
 
 Most people trying to switch into AI face the same problem: they do not know where to start, what order to learn in, or which topics are essential versus optional.
@@ -33,6 +37,42 @@ This repository solves that by organizing the transition into a staged path:
          ▼
       AI Role Entry
 ```
+
+## What You Will Get From This Repo
+
+By the end of this roadmap, you should be able to:
+
+- choose a realistic AI target role based on your current background
+- identify the technical gaps that actually matter for your transition
+- follow a staged learning plan instead of studying topics in random order
+- build proof-of-work projects that support resumes, portfolios, and interviews
+
+## Quick Navigation
+
+| If You Need | Start Here | Then Continue With |
+|-------------|------------|--------------------|
+| role clarity | `modules/01_where_to_start.md` | `modules/04_role_based_bridge_paths.md` |
+| a learning sequence | `modules/02_foundations_you_must_learn.md` | `modules/03_ml_dl_llm_roadmap.md` |
+| project strategy | `modules/05_projects_portfolio_and_job_strategy.md` | `templates/project-case-study-template.md` |
+| job-readiness assets | `modules/07_resume_portfolio_and_interview_bridge.md` | `modules/10_interview_question_banks.md` |
+
+## Prerequisites
+
+You do not need prior AI specialization to use this repository.
+
+It helps if you already have:
+
+- basic comfort with software tools such as Git, terminals, and online documentation
+- a target role in mind, even if it is still rough
+- willingness to build public proof of work instead of only consuming courses
+
+## Recommended Next Repositories
+
+After this roadmap, continue with:
+
+- [prompt-engineering-foundations](https://github.com/dhirajkrsingh/prompt-engineering-foundations) for reliable prompting patterns
+- [llm-evals-and-anti-hallucination](https://github.com/dhirajkrsingh/llm-evals-and-anti-hallucination) for evaluation and reliability thinking
+- [cursor-ai-development-workflows](https://github.com/dhirajkrsingh/cursor-ai-development-workflows) for AI-assisted development workflows
 
 ## Who This Repo Is For
 
@@ -175,6 +215,12 @@ This repository is informed by widely used public learning paths:
 4. Hugging Face Learn provides applied tracks for LLMs, agents, reinforcement learning, and open-source AI ecosystems.
 5. DeepLearning.AI's AI for Everyone highlights realistic role awareness, team workflows, and what AI can and cannot do.
 6. roadmap.sh's AI Engineer path reflects the modern tooling stack around models, prompting, RAG, agents, safety, and product impact.
+
+## Position In The Portfolio
+
+This is the entry-point repository for career switchers.
+
+Use it first if your main question is not "how do I build an agent?" but rather "how do I become credible enough to work in AI?"
 
 ## Author
 
